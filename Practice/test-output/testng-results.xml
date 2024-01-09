@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-02T17:13:21 IST" name="Default suite" finished-at="2023-10-02T17:14:34 IST" duration-ms="73254">
+    <groups>
+    </groups>
+    <test started-at="2023-10-02T17:13:21 IST" name="Default test" finished-at="2023-10-02T17:14:34 IST" duration-ms="73254">
+      <class name="Module1_Test_Class.Testinggggg">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Module1_Test_Class.Testinggggg@2034b64c]" started-at="2023-10-02T17:13:21 IST" name="openBrowser" finished-at="2023-10-02T17:13:40 IST" duration-ms="18587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="LoginToApp()[pri:0, instance:Module1_Test_Class.Testinggggg@2034b64c]" started-at="2023-10-02T17:13:40 IST" name="LoginToApp" finished-at="2023-10-02T17:14:02 IST" duration-ms="22025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApp -->
+        <test-method signature="kSelectProuduct()[pri:0, instance:Module1_Test_Class.Testinggggg@2034b64c]" started-at="2023-10-02T17:14:02 IST" name="kSelectProuduct" finished-at="2023-10-02T17:14:34 IST" duration-ms="32214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kSelectProuduct -->
+        <test-method is-config="true" signature="logoutfromapp()[pri:0, instance:Module1_Test_Class.Testinggggg@2034b64c]" started-at="2023-10-02T17:14:34 IST" name="logoutfromapp" finished-at="2023-10-02T17:14:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:Module1_Test_Class.Testinggggg@2034b64c]" started-at="2023-10-02T17:14:34 IST" name="closebrowser" finished-at="2023-10-02T17:14:34 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- Module1_Test_Class.Testinggggg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
